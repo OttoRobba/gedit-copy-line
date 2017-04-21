@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=copy_line
+IAge=3
+Name=Copy Line
+Description=Copy lines with CTRL+C if no text is selected.
+Authors=Otto Robba <ottorobba@gmail.com>
+Copyright=Copyright © 2017
+Website=
